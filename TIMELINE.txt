@@ -5,3 +5,8 @@ https://github.com/m4rkbello/ZERO_TO_HERO---TYPESCRIPT
 ->npx create-react-app react-typescript-demo --template typescript 
 ->npm i react-scripts@latest 
 ->npm update eslint eslint-plugin-react
+->npm install rimraf --save-dev
+->npm i -D eslint-config-react-app
+new code 
+->yarn remove eslint-config-react-app
+->yarn add eslint-config-react-app@6
