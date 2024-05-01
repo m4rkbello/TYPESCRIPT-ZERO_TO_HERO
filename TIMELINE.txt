@@ -1,1 +1,5 @@
-1.TYPESCRIPT
+1.CREATE A TYPESCRIPT USING REACTJS LIBRARIES
+2. THE folder I created was ZERO_TO_HERO---TYPESCRIPT 
+https://github.com/m4rkbello/ZERO_TO_HERO---TYPESCRIPT
+3. ADD CRA TEMPLATE FOR REACT-TYPESCRIPT 
+->npx create-react-app react-typescript-demo --template typescript
