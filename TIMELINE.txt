@@ -2,4 +2,6 @@
 2. THE folder I created was ZERO_TO_HERO---TYPESCRIPT 
 https://github.com/m4rkbello/ZERO_TO_HERO---TYPESCRIPT
 3. ADD CRA TEMPLATE FOR REACT-TYPESCRIPT 
-->npx create-react-app react-typescript-demo --template typescript
+->npx create-react-app react-typescript-demo --template typescript 
+->npm i react-scripts@latest 
+->npm update eslint eslint-plugin-react
