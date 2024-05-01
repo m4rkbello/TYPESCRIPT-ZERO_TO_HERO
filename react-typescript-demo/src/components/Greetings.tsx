@@ -9,4 +9,4 @@ export const Greetings = (props: GreetProps) => {
             <h3>Wazzup</h3>
         </div>
     )
-};
+}

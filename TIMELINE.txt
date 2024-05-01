@@ -10,3 +10,5 @@ https://github.com/m4rkbello/ZERO_TO_HERO---TYPESCRIPT
 new code 
 ->yarn remove eslint-config-react-app
 ->yarn add eslint-config-react-app@6
+->npm dedupe
+->npm i
